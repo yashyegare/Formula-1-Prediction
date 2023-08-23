@@ -14,7 +14,7 @@ To conduct the analysis, I gathered data from multiple sources, including the Er
 
 ## Machine Learning Models:
 
-I trained multiple machine learning models to predict driver performance in Formula One races. The models I employed include logistic regression, decision tree, random forest, support vector machine, Gaussian Naive Bayes, and K-Nearest Neighbors. These models were selected based on their suitability for classification problems and their popularity in the machine learning community.
+Trained multiple machine learning models to predict driver performance in Formula One races. The models I employed include logistic regression, decision tree, random forest, support vector machine, Gaussian Naive Bayes, and K-Nearest Neighbors. These models were selected based on their suitability for classification problems and their popularity in the machine learning community.
 
 ## Application of Machine Learning Models:
 
