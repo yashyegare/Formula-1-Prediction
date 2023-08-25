@@ -1,4 +1,4 @@
-# Formula 1 Race Prediction 🏁
+# Formula 1 Race Winner Prediction 🏁
 
 ## Links
 
